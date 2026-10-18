@@ -27,8 +27,8 @@ The framework is designed to separate measured observations, simulated data, and
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/pisti87/quantumcosmos-research.git
+cd quantumcosmos-research
 ```
 
 Install the dependency:
