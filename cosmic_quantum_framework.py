@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Cosmic Signal & Quantum Communication Research Framework
+QuantumCosmos Research Framework
 Python 3.10+; dependency: numpy
 
 A deliberately conservative research prototype:
