@@ -189,7 +189,15 @@ Potential future development includes:
 
 ## License
 
-No license has been specified yet. Add an appropriate `LICENSE` file before distributing the project as open-source software.
+Copyright (c) 2026 István. All Rights Reserved.
+
+This project is distributed under the **QuantumCosmos Proprietary License 1.0**.
+
+Use, reproduction, modification, distribution, and commercial exploitation require prior written permission from the copyright holder, except where applicable law provides otherwise.
+
+See [`LICENSE`](LICENSE) for the full terms.
+
+For licensing inquiries, contact erdist87@gmail.com.
 
 ## Disclaimer
 
