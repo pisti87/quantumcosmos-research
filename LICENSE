@@ -1,28 +1,39 @@
-BSD 3-Clause License
+# QuantumCosmos Proprietary License 1.0
 
-Copyright (c) 2026, István
+**Copyright (c) 2026 István. All Rights Reserved.**
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+**Project:** QuantumCosmos Research Framework
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+## 1. Ownership
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+The QuantumCosmos Research Framework, including its source code, original documentation, and other original materials distributed with the project, is protected by applicable copyright and intellectual property laws.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+All rights, title, and interest in the project remain with the copyright holder, except for rights expressly granted in writing.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+## 2. No License Granted
+
+No license or permission to use this project is granted by the publication, display, or availability of its source code.
+
+Without the prior express written permission of the copyright holder, no person or organization may, to the extent restricted by applicable law, use, copy, reproduce, modify, adapt, distribute, sublicense, sell, or commercially exploit this project or substantial portions of its code.
+
+## 3. Written Authorization
+
+Any permitted use, reproduction, modification, distribution, or commercial exploitation must be expressly authorized in advance by the copyright holder in writing.
+
+Any authorization is limited to the scope and conditions stated in that written permission. No additional rights are implied.
+
+## 4. Reservation of Rights
+
+All rights not expressly granted in a separate written agreement are reserved by the copyright holder. Nothing in this license is intended to restrict rights that cannot legally be excluded under applicable law.
+
+## 5. No Warranty
+
+The project is provided "AS IS", without warranties of any kind, to the maximum extent permitted by applicable law.
+
+## 6. Permission Requests
+
+Requests for licensing or other authorization must be submitted to:
+
+**Copyright Holder:** István
+
+**Contact:** [erdist87@gmail.com]
