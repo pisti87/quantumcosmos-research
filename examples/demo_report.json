@@ -1,0 +1,87 @@
+{
+  "framework": "QuantumCosmos Research Framework",
+  "runtime": {
+    "python": "3.13.5",
+    "numpy": "2.3.5"
+  },
+  "evidence_policy": {
+    "observation": "measured data with provenance and instrument metadata",
+    "simulation": "generated data, never relabeled as observation",
+    "hypothesis": "testable model, not a confirmed discovery"
+  },
+  "radio_analysis": {
+    "observation_id": "demo-synthetic-001",
+    "sample_count": 2048,
+    "duration_s": 2.0,
+    "rms_amplitude": 0.6128043840092826,
+    "dominant_peaks": [
+      {
+        "frequency_hz": 123.0,
+        "relative_amplitude": 1.0
+      },
+      {
+        "frequency_hz": 122.5,
+        "relative_amplitude": 0.5042831079486441
+      },
+      {
+        "frequency_hz": 123.5,
+        "relative_amplitude": 0.5010380478328004
+      },
+      {
+        "frequency_hz": 287.0,
+        "relative_amplitude": 0.3028114200335006
+      },
+      {
+        "frequency_hz": 286.5,
+        "relative_amplitude": 0.15645409951591777
+      }
+    ],
+    "provenance_kind": "simulation",
+    "caveats": [
+      "FFT peaks are candidate spectral features, not evidence of an artificial source.",
+      "Calibration, interference rejection, telescope metadata, and independent confirmation are not implemented.",
+      "This input is not labeled as a real observation."
+    ]
+  },
+  "quantum_communication_simulation": {
+    "transmitted_bits": 1000,
+    "sifted_bits": 362,
+    "estimated_qber": 0.016574585635359115,
+    "detected_fraction": 0.711,
+    "note": "Educational simulation only; not a secure implementation or a claim of physical quantum communication."
+  },
+  "drake_equation_demo": {
+    "estimated_detectable_civilizations": 0.4800000000000002,
+    "parameters": {
+      "star_formation_rate_per_year": 1.5,
+      "fraction_with_planets": 0.8,
+      "habitable_planets_per_system": 0.2,
+      "life_probability": 0.1,
+      "intelligence_probability": 0.01,
+      "detectable_technology_probability": 0.2,
+      "detectable_lifetime_years": 10000
+    },
+    "warning": "Illustrative arbitrary inputs, not a scientific consensus estimate."
+  },
+  "dark_matter_hypothesis_record": {
+    "name": "generic-gravitational-hypothesis",
+    "description": "A placeholder model record for comparing a proposed dark-matter scenario with gravitational and astrophysical observations.",
+    "assumptions": [
+      "The model must specify quantitative predictions.",
+      "Ordinary astrophysical sources and instrumental effects must be considered."
+    ],
+    "confidence": "speculative",
+    "evidence_refs": [],
+    "predicted_observables": [
+      "gravitational effects",
+      "model-specific structure or lensing predictions"
+    ],
+    "warning": "A model record is not a detection. Compare predictions with calibrated observations and competing explanations."
+  },
+  "limitations": [
+    "No dark-matter detection algorithm is implemented.",
+    "Radio FFT peaks are not automatically classified as artificial signals.",
+    "The quantum protocol is a toy simulation, not secure QKD software.",
+    "No real telescope, detector, or quantum device is connected."
+  ]
+}
